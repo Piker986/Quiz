@@ -1,5 +1,6 @@
 # Quiz
-Alpha ver 0.0
+Alpha ver 1.2
+
 1) Aplikacja typu quiz służy głównie do stworzenia i rozegrania quizów które pozwalają użytkownikom testować swoją wiedzę na różne tematy. Głównym celem aplikacji quiz jest sprawdzenie poziomu wiedzy użytkownikowi.
 
 2) Użytkownik odpowiada na zestaw pytań, a następnie otrzymuje wynik na podstawie liczby poprawnych odpowiedzi. Aplikacja wyświetla pytania, a użytkownik wybiera odpowiedzi poprzez interakcję.Po zakończeniu quizu użytkownik otrzymuje wynik w formie punktacji.
