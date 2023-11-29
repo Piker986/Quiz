@@ -1,1 +1,3 @@
-1
+Zaktualizowano kod zgodnie z zasadą KISS eliminując zbędne elementy, co przyczyniło się do zwiększenia czytelności i prostoty kodu. Dodano również dokumentację kodu, co ułatwiło zrozumienie jego działania i utrzymanie.  18.55
+Te zmiany poprawiły jakość kodu i jego zarządzanie. 18.55
+Po zastosowaniu zasady YAGNI usunięto te niepotrzebne elementy, co przyczyniło się do uproszczenia kodu. 20.10
